@@ -608,6 +608,10 @@ input[type="radio"].visually-hidden {
 	z-index: 4;
 }
 
+.map-iframe {
+	width: 100%;
+}
+
 .footer-contacts-name {
 	font-size: 18px;
 	line-height: 30px;
